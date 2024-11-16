@@ -1,5 +1,6 @@
 package com.example.arsitekturmvvm.model
 
+
 data class Mahasiswa(
     val nama : String = "",
     val nim : String = "",
