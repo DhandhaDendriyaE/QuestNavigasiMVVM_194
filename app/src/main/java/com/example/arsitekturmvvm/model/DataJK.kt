@@ -1,5 +1,6 @@
 package com.example.arsitekturmvvm.model
 
+
 import com.example.arsitekturmvvm.R
 
 object DataJK {
